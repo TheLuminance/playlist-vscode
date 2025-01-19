@@ -6,6 +6,13 @@ Saudações! Este repositório é dedicado para anotações da playlist de aulas
 
 -   [Miguel Nischor](https://linkedin.com/in/mgnischor) - Desenvolvedor
 
+## Contribuições
+
+-   Este repositório segue o padrão de Git Flow, a branch main representa a `produção` (informações mais atuais) e a branch develop representa o que está `em desenvolvimento`.
+-   Caso queira contribuir, faça um fork do repositório e mude para a branch develop: `git checkout -b develop`
+-   Antes de abrir um pull request, faça um `git pull` para verificar se nenhuma informação foi enviada anteriormente para este repositório
+-   Resolva qualquer conflito existente e envie seu pull request
+
 ## Doações
 
 Este projeto te ajudou de alguma forma? Considere fazer alguma doação para as carteiras abaixo (apenas criptomoedas):
