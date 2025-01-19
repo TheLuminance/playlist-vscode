@@ -1,0 +1,69 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+
+    "settings": {
+        /* Extension: esbenp.prettier-vscode */
+        "prettier.configPath": ".prettierrc",
+        "prettier.enable": true,
+
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.detectIndentation": true,
+        "editor.fontFamily": "'JetBrains Mono', Consolas",
+        "editor.fontSize": 14,
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true,
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 120,
+
+        "files.autoSave": "afterDelay",
+        "files.autoSaveDelay": 1200,
+        "files.defaultLanguage": "markdown",
+        "files.enableTrash": true,
+        "files.encoding": "utf8",
+        "files.eol": "auto",
+        "files.exclude": {
+            "**/.apdisk": true,
+            "**/.AppleDB": true,
+            "**/.AppleDesktop": true,
+            "**/.AppleDouble": true,
+            "**/.com.apple.timemachine.donotpresent": true,
+            "**/.DocumentRevisions-V100": true,
+            "**/.DS_Store": true,
+            "**/.fseventsd": true,
+            "**/.git": true,
+            "**/.hg": true,
+            "**/.LSOverride": true,
+            "**/.Spotlight-V100": true,
+            "**/.svn": true,
+            "**/.TemporaryItems": true,
+            "**/.Trashes": true,
+            "**/.VolumeIcon.icns": true,
+            "**/CVS": true,
+            "**/Desktop.ini": true,
+            "**/ehthumbs_vista.db": true,
+            "**/ehthumbs.db": true,
+            "**/Network Trash Folder": true,
+            "**/Temporary Items": true,
+            "**/Thumbs.db:encryptable": true,
+            "**/Thumbs.db": true
+        },
+
+        "git.ignoreLegacyWarning": true,
+        "git.ignoreLimitWarning": true,
+        "git.ignoreMissingGitWarning": true,
+        "git.ignoreRebaseWarning": true,
+        "git.ignoreWindowsGit27Warning": true,
+
+        "[ignore]": {
+            "editor.defaultFormatter": null,
+            "editor.formatOnPaste": false,
+            "editor.formatOnSave": false
+        }
+    }
+}
